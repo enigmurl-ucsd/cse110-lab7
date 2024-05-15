@@ -2,3 +2,6 @@
 
 ## Partners
 Manu Bhat
+
+## Link
+https://enigmurl-ucsd.github.io/cse110-lab7/
